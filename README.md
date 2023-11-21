@@ -16,9 +16,10 @@ Se pide:
 Consideraciones:
 - Seleccionar una misma categoría de la cual añadirán 3 productos de manera aleatoria y una cantidad aleatoria de dicho producto (1 a 5).
 - La automatización debe correr minimo en dos navegadores.
+- Hacerle Fork a este repositorio y entregar la solución en una rama con sus nombres.
 
 
-Nota: #### **Valor agregado**
+Nota: **Valor agregado**
 
 Los casos diseñados con gherkin si desean realizar escenarios outline y agregar productos de otra categoría realizarlos como los que se ven en el link a continuación.
 
